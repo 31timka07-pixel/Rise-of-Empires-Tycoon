@@ -1,1 +1,2 @@
-# Rise-of-Empires-Tycoon
+# Rise-of-Empires: Tycoon
+The game is broken
